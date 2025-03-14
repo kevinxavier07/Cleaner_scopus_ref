@@ -19,7 +19,7 @@ pip install unicodedata pandas re
 1. Clona este repositorio:
 
    ```bash
-   git clone <[URL_DEL_REPOSITORIO](https://github.com/kevinxavier07/Cleaner_scopus_ref)>
+   git clone <(https://github.com/kevinxavier07/Cleaner_scopus_ref)>
    ```
 
 2. Abre el notebook:
